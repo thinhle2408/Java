@@ -1,0 +1,1 @@
+var globalScope = 'global_scope';
