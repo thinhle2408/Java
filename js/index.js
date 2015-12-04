@@ -1,1 +1,2 @@
-Console.log(globalScope);
+console.log(globalScope);
+console.log(functionScope);
